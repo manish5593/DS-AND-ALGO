@@ -1,0 +1,9 @@
+1) What are the inputs?
+
+2) What are the Output?
+
+3) Solve the problem.
+
+4) Find simple Mechanical Solution.
+
+5) Develop incrementally in small steps that we can test as we go.

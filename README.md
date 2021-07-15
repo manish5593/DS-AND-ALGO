@@ -1,1 +1,1 @@
-# DS-AND-ALGO
+# Udacity-Data-Structures-and-Algorithms-Nanodegree
